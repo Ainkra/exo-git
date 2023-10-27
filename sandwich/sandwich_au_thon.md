@@ -5,5 +5,6 @@
 - Harissa
 - Tomate
 - Pain de mie
+- Olives
 
 ![sandwich](./sandwichs-thon.jpeg)
