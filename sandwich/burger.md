@@ -8,3 +8,4 @@
 - Crême
 - Ciboulette
 - Ail
+- Curry
