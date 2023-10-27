@@ -4,7 +4,7 @@
 - cheddar
 - sauce ketchup
 - tomate
-- salade
+- concombre
 - steak de boeuf
 - bacon
 
