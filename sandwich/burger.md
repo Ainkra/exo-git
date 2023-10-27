@@ -6,4 +6,6 @@
 - tomate
 - salade
 - steak de boeuf
+- bacon
+
 ![burger](./burger.jpg)
