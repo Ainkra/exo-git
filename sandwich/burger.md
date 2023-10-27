@@ -2,7 +2,7 @@
 
 - bun
 - cheddar
-- sauce mayo/harissa
+- sauce ketchup
 - tomate
 - salade
 - steak de boeuf
