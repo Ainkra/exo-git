@@ -6,3 +6,4 @@
 - Thon
 - Oignon
 - Crême
+- Ciboulette
